@@ -1,4 +1,4 @@
-![Hi there 👋](GithubBannerHero.png)
+![Hi there 👋](https://www.laurapaglione.com/images/GithubBannerHero.png)
 
 ### What you don't know can't hurt you - it can only propel you.
 
