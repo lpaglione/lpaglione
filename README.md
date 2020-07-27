@@ -1,4 +1,14 @@
-### Hi there 👋
+![Hi there 👋](banner.jpg)
+
+### What you don't know can't hurt you - it can only propel you.
+
+I'm on a mission to increase the efficiency and effectiveness in addressing everyday challenges facing research and scholarship. As an independent consultant, I help organizations involved in the process of research and innovation to design, develop, and launch their offerings, with the aim of guiding them to embrace that difference is the key to collaborative innovation.
+
+As a data-driven futurist, I thrive at the intersection of creative, technical, and business environments, and I'm looking to inspire individuals and organizations to take the road less traveled, embrace alternative solutions, and consider broadly the audiences for whom we create.
+
+Ready to come on the journey?
+
+Learn about my work at [LauraPaglione.com](https://laurapaglione.com)
 
 <!--
 **lpaglione/lpaglione** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
